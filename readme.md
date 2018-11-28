@@ -1,6 +1,6 @@
-# Alt-H1 Practice: Represent your Pet
+# Practice: Represent your Pet
 
-# H3 Create an object that represents your pet.
+### Create an object that represents your pet.
 
 1. Name property with a string value.
 1. Species property with a string value.
